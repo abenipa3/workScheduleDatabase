@@ -1,7 +1,3 @@
-drop table if exists employee;
-drop table if exists schedule;
-drop table if exists [shift];
-
 create table employee (
 	[id] int identity(1,1) constraint [pk_employee_id] primary key,
 	lastname varchar(200),
