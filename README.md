@@ -1,3 +1,3 @@
 # Work_Schedule_Application
 
-Application that will enable employees to input their timesheet.
+An application that will enable employees to input their timesheets.
