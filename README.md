@@ -1,3 +1,3 @@
 # workScheduleDatabase
 
-The database of the (fictitious) employee schedule was based on an existing Excel employee calendar with SQL Server with the intent to build an application.
+The database of a (fictitious) employee schedule that was based on an existing Excel employee calendar with SQL Server with the intent to build an application.
