@@ -5,6 +5,7 @@ The database of a (fictitious) employee schedule that was based on an existing E
 <img src="/images/excel-calendar_2019.jpg" width="1280" height="400"/></div>
 *A snippet of the Excel Version – Real names purposely not disclosed.*
 <br>
+<br>
 *Output generated below*
 
 | Date        | Employee_ID | Employee_Name     | Time_In     | Time_Out    | Shift         |
@@ -29,18 +30,18 @@ The database of a (fictitious) employee schedule that was based on an existing E
 | 11/3/2019   | 8           | Frank Zappa       | 7:30AM	    | 5:15PM	    |               |
 | 11/3/2019   | 9           | Magne Furuholmen  | 9:00AM	    | 6:00PM	    | TC            |
 | 11/3/2019   | 10          | Sade Adu          | 7:00AM	    | 4:45PM	    | TC            |
-| 11/3/2019   | 1           | Freddie Mercury   | Title       | Title       | Title       |
-| 11/3/2019   | 2           | David Bowie	      | Text        | Title       | Title       |
-| 11/3/2019   | 3           | Ella Fitzgerald	  | Text        | Title       | Title       |
-| 11/3/2019   | 4           | Annie Lennox	    | Text        | Title       | Title       |
-| 11/3/2019   | 5           | Dolores O’Riordan | Text        | Title       | Title       |
-| 11/3/2019   | 6           | Chaka Khan        | Text        | Title       | Title       |
-| 11/3/2019   | 7           | Jimi Hendrix      | Text        | Title       | Title       |
-| 11/3/2019   | 8           | Frank Zappa       | Text        | Title       | Title       |
-| 11/3/2019   | 9           | Magne Furuholmen  | Text        | Title       | Title       |
-| 11/3/2019   | 10          | Sade Adu          | Text        | Title       | Title       |
-| 11/3/2019   | 1           | Freddie Mercury   | Title       | Title       | Title       |
-| 11/3/2019   | 2           | David Bowie	      | Text        | Title       | Title       |
+| 11/3/2019   | 1           | Freddie Mercury   | 9:00AM	    | 6:00PM	    |               |
+| 11/3/2019   | 2           | David Bowie	      | 9:00AM	    | 6:45PM	    |               |
+| 11/3/2019   | 3           | Ella Fitzgerald	  | 7:30AM	    | 4:30PM	    | TC            |
+| 11/3/2019   | 4           | Annie Lennox	    | 8:00AM	    | 4:30PM	    | TC            |
+| 11/3/2019   | 5           | Dolores O’Riordan | 8:30AM	    | 6:15PM	    | TC            |
+| 11/3/2019   | 6           | Chaka Khan        | 6:00AM	    | 3:45PM	    |               |
+| 11/3/2019   | 7           | Jimi Hendrix      | 7:00AM	    | 4:45PM	    | FLEX          |
+| 11/3/2019   | 8           | Frank Zappa       | 7:30AM	    | 5:15PM	    | ETO           |
+| 11/3/2019   | 9           | Magne Furuholmen  | 9:00AM	    | 6:00PM	    |               |
+| 11/3/2019   | 10          | Sade Adu          | 7:00AM	    | 4:45PM	    |               |
+| 11/3/2019   | 1           | Freddie Mercury   | 9:00AM	    | 6:00PM	    |               |
+| 11/3/2019   | 2           | David Bowie	      | 9:00AM	    | 6:45PM	    |               |
 | 11/3/2019   | 3           | Ella Fitzgerald	  | Text        | Title       | Title       |
 | 11/3/2019   | 4           | Annie Lennox	    | Text        | Title       | Title       |
 | 11/3/2019   | 5           | Dolores O’Riordan | Text        | Title       | Title       |
