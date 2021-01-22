@@ -113,4 +113,10 @@ The database of a (fictitious) employee schedule that was based on an existing E
 | 7           | HOLIDAY       |   
 | 8           | JURY DUTY     |
 | 9           | TRAINING      |  
-| 10          | WEEKEND  |
+| 10          | WEEKEND       |
+
+*Notes:*
+- TC = Telecommute
+- ETO = Earned Time Off
+- ETS = Sick Day
+- ESL = Earned Sick Leave
