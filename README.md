@@ -115,7 +115,7 @@ The database of a (fictitious) employee schedule that was based on an existing E
 | 9           | TRAINING      |  
 | 10          | WEEKEND       |
 
-*Notes:*
+*Notes*
 - Blank = In Office
 - TC = Telecommute
 - ETO = Earned Time Off
