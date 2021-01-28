@@ -1,3 +1,5 @@
+-- CREATE TABLES
+-- EMPLOYEE TABLE
 create table employee (
 	[id] int identity(1,1) constraint [pk_employee_id] primary key,
 	lastname varchar(200),
@@ -21,7 +23,7 @@ create table employee (
 
 	select * from employee;
 
-
+-- SHIFT TABLE
 create table [shift] (
 	[id] int identity(1,1) constraint [pk_shift_id] primary key,
 	shiftname varchar(200)
@@ -40,6 +42,7 @@ create table [shift] (
 
 	select * from [shift];
 
+-- SCHEDULE TABLE		     
 create table schedule (
 	[id] int identity(1,1) constraint [pk_schedule_id] primary key,
 	employeeid int,
@@ -801,7 +804,7 @@ create table schedule (
 																													 
 	select * from schedule;
 
-
+-- JOINED EMPLOYEE TABLE WITH SCHEDULE TABLE
 ----12/1/2019 to 12/31/2019
 declare @startdate date = '12/1/2019';
 declare @enddate date = '1/31/2020';
@@ -834,5 +837,7 @@ select distinct
 	order by 
 	[date] asc, employee.[id]
 	option (maxrecursion 0); --Maxrecursion 0 allows infinite recursion.
+				
+
 
 	
