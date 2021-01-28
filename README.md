@@ -121,3 +121,7 @@ The database of a (fictitious) employee schedule that was based on an existing E
 - ETO = Earned Time Off
 - ETS = Sick Day
 - ESL = Earned Sick Leave
+
+*Data Dictionary*
+
+<img src="/images/datadictionary.jpg" width="800" height="400"/></div>
